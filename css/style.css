@@ -1,0 +1,38 @@
+* {
+  color: teal;
+}
+div[title] {
+  color: brown;
+  border: 1px green outset;
+  border-top-color: red;
+  border-radius: 10px;
+}
+.letters_h1 {
+  color: blue;
+}
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50%;
+}
+.yellow {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border-radius: 50%;
+}
+.green {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 50%;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+
+}
